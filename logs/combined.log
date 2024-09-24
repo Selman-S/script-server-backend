@@ -1,0 +1,14 @@
+2024-09-25 00:40:12 [INFO]: MongoDB bağlantısı başarılı
+2024-09-25 00:40:14 [INFO]: MongoDB bağlantısı başarılı
+2024-09-25 00:41:15 [INFO]: MongoDB bağlantısı başarılı
+2024-09-25 00:41:28 [INFO]: MongoDB bağlantısı başarılı
+2024-09-25 00:46:48 [INFO]: MongoDB bağlantısı başarılı
+2024-09-25 00:46:48 [INFO]: ::1 - - [24/Sep/2024:21:46:48 +0000] "GET /api/containers HTTP/1.1" 400 16 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+2024-09-25 00:47:48 [INFO]: ::1 - - [24/Sep/2024:21:47:48 +0000] "POST /api/containers HTTP/1.1" 400 16 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+2024-09-25 00:47:53 [INFO]: ::1 - - [24/Sep/2024:21:47:53 +0000] "POST /api/containers HTTP/1.1" 400 16 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+2024-09-25 00:48:10 [INFO]: ::1 - - [24/Sep/2024:21:48:10 +0000] "GET /api/containers HTTP/1.1" 401 19 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+2024-09-25 00:48:24 [INFO]: ::1 - - [24/Sep/2024:21:48:24 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+2024-09-25 00:48:33 [INFO]: ::1 - - [24/Sep/2024:21:48:33 +0000] "POST /api/auth/login HTTP/1.1" 200 165 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+2024-09-25 00:48:33 [INFO]: ::1 - - [24/Sep/2024:21:48:33 +0000] "GET /api/containers HTTP/1.1" 200 6454 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+2024-09-25 00:48:37 [INFO]: ::1 - - [24/Sep/2024:21:48:37 +0000] "GET /api/containers HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+2024-09-25 00:48:41 [INFO]: ::1 - - [24/Sep/2024:21:48:41 +0000] "GET /api/containers HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
