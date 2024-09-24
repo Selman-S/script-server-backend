@@ -12,7 +12,9 @@ require('dotenv').config();
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: 'https://script-service-frontend.vercel.app'
+}));
 app.use(express.json());
 
 // Morgan'ı winston ile birlikte kullanma
